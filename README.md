@@ -1,16 +1,18 @@
-## Hi there 👋
+## Drew Burt — AI Governance & Control Systems
 
-<!--
-**dburt-proex/dburt-proex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build deterministic control layers for AI systems: policy gates, risk 
+routing, human review, and audit-grade decision records — before any 
+action reaches a real system.
 
-Here are some ideas to get you started:
+**Core systems**
+- **CASA** — Pre-execution governance. ALLOW / REVIEW / HALT gate with 
+  immutable audit trail.
+- **VIL** — Deterministic signal scoring and routing before deployment. 
+  No LLM required.
+- **PromptBP** — Instruction governance framework for controlled LLM output.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently available for:** compliance/risk roles (Rochester MN area) · 
+fixed-scope CASA implementations · fractional AI governance retainers.
+
+→ [Portfolio + live CASA demo](https://dburt-proex.github.io)  
+→ drewburt4@gmail.com
