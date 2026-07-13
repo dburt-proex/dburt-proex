@@ -14,5 +14,5 @@ action reaches a real system.
 **Currently available for:** compliance/risk roles (Rochester MN area) · 
 fixed-scope CASA implementations · fractional AI governance retainers.
 
- 
+ https://drew-burt-portfolio.dburt30.chatgpt.site/
 → drewburt4@gmail.com
