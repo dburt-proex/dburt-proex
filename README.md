@@ -14,5 +14,5 @@ action reaches a real system.
 **Currently available for:** compliance/risk roles (Rochester MN area) · 
 fixed-scope CASA implementations · fractional AI governance retainers.
 
-→ [Portfolio + live CASA demo](https://dburt-proex.github.io)  
+ 
 → drewburt4@gmail.com
