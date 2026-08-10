@@ -1,6 +1,7 @@
 # Drew Burt — AI Governance & Control Systems
 
 [![DiffWall PR Firewall](https://github.com/dburt-proex/dburt-proex/actions/workflows/diffwall.yml/badge.svg)](https://github.com/dburt-proex/dburt-proex/actions/workflows/diffwall.yml)
+
 [Portfolio](https://drew-burt-portfolio.dburt30.chatgpt.site/) ·
 [Systems](https://drew-burt-portfolio.dburt30.chatgpt.site/systems) ·
 [Governance Lab](https://drew-burt-portfolio.dburt30.chatgpt.site/lab) ·
