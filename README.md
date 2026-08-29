@@ -20,4 +20,4 @@ Agent workflow governance · runtime tool-call controls · change-time enforceme
 
 Compliance and risk roles in the Rochester, Minnesota area · fixed-scope CASA implementations · fractional AI-governance engagements
 
-[Portfolio](https://drew-burt-portfolio.dburt30.chatgpt.site/) · [Email](mailto:drewburt4@gmail.com)
+[Portfolio](https://drew-burt-portfolio.dburt-proex.chatgpt.site/) · [Email](mailto:drewburt4@gmail.com)
