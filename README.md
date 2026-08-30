@@ -1,23 +1,114 @@
 # Drew Burt
 
-### AI Governance & Control Systems
+### AI Systems Engineer · Governance Architect · Agent Control Infrastructure
 
-I design and build deterministic control layers for AI-assisted work: policy evaluation, risk routing, human approval gates, and evidence-producing decision records.
+I build **governed AI systems designed for real-world execution**.
 
-My focus is governed execution—making consequential AI and agent actions reviewable, bounded, and traceable before they reach real systems.
+My work focuses on the control layer between AI intent and system action — where permissions, policy, risk, evidence, review, and accountability need to be explicit before an agent is trusted to act.
 
-## Core systems
+I design infrastructure for:
 
-- **[CASA](https://github.com/dburt-proex/casa)** — Pre-execution governance for proposed actions: **ALLOW · REVIEW · HALT** decisions, explicit gates, and verifiable execution receipts.
-- **[VIL](https://github.com/dburt-proex/VIL_deterministic_scoring_engine)** — Deterministic signal scoring and routing for consistent, inspectable decisions without requiring an LLM.
-- **[PromptBP](https://github.com/dburt-proex/PromptBP)** — Instruction-governance patterns for controlled, testable LLM behavior.
+* **Agentic AI governance** — deterministic ALLOW / REVIEW / HALT decision gates
+* **AI control layers** — policy enforcement, authority boundaries, tool permissions, and escalation
+* **Governed automation** — workflows with explicit scope, execution constraints, and human approval paths
+* **Auditability** — decision ledgers, execution receipts, provenance, checkpoints, and evidence trails
+* **Operational intelligence** — turning system activity into structured knowledge and better next decisions
+* **Agentic readiness** — evaluating whether workflows are technically and operationally ready for safe AI automation
 
-## Current focus
+---
 
-Agent workflow governance · runtime tool-call controls · change-time enforcement · evaluation reliability · decision-ledger architecture
+## Core Systems
 
-## Available for
+### CASA
 
-Compliance and risk roles in the Rochester, Minnesota area · fixed-scope CASA implementations · fractional AI-governance engagements
+Pre-execution governance architecture for AI-assisted and agentic systems.
 
-[Portfolio](https://drew-burt-portfolio.daxxer-os.chatgpt.site) · [Email](mailto:drewburt4@gmail.com)
+Evaluates proposed actions against authority, policy, permissions, evidence, and risk before execution.
+
+**Decision states:** `ALLOW` · `REVIEW` · `HALT`
+
+### Governance Harness Toolkit
+
+Reusable governance infrastructure for policy-aware intake, deterministic decision gates, constrained execution, evidence capture, and durable receipts.
+
+### DiffWall
+
+Change-time governance for evaluating proposed system and code changes before they reach downstream environments.
+
+### VIL
+
+Deterministic signal scoring and routing for structured intake, prioritization, and decision support.
+
+### PromptBP
+
+Instruction and capability governance for controlling how AI systems interpret objectives, constraints, permissions, and execution boundaries.
+
+### Operator Intelligence
+
+Operational intelligence and agentic-readiness infrastructure for evaluating workflows, controls, risks, and AI adoption opportunities.
+
+---
+
+## Architecture Thesis
+
+As AI systems move from generating responses to interacting with repositories, APIs, business processes, tools, and production systems, governance becomes an engineering problem.
+
+The systems I build follow a common control loop:
+
+```text
+Intent
+  ↓
+Governed Directive
+  ↓
+Policy / Authority / Risk Gate
+  ↓
+ALLOW · REVIEW · HALT
+  ↓
+Controlled Execution
+  ↓
+Evidence + Receipt
+  ↓
+Decision / Event Ledger
+  ↓
+Operational Intelligence
+  ↓
+Better Next Decision
+```
+
+The goal is not maximum autonomy.
+
+The goal is **bounded, observable, auditable autonomy that earns additional authority through evidence**.
+
+---
+
+## Current Focus
+
+I’m currently building and researching systems around:
+
+* Agentic AI governance
+* AI control planes
+* Runtime and pre-execution enforcement
+* MCP and tool-call governance
+* Human-in-the-loop approval systems
+* Agent permission architecture
+* AI workflow readiness
+* Decision and event ledgers
+* Audit-grade AI operations
+* Operational intelligence
+* Governed multi-agent systems
+
+---
+
+## Professional Focus
+
+I’m interested in engineering and architecture roles involving:
+
+**AI Systems · Agentic AI · AI Governance · AI Platforms · AI Risk & Controls · Workflow Automation · Agent Infrastructure · Responsible AI**
+
+I’m also developing fixed-scope **Agentic Readiness Audits** and governed workflow implementations for organizations adopting AI automation.
+
+---
+
+### Engineering Principle
+
+> AI systems should receive no more authority than their evidence, controls, and accountability justify.
